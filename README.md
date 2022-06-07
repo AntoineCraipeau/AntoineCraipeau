@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a french computer Science Student from France. I have been learning code for a few years, including languages like <b>Python</b>, <b>C</b>, <b>Java</b> and <b>JavaScript</b>.
 <!--
 **Leowenex/leowenex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
