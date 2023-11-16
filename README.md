@@ -11,6 +11,8 @@ I'm a french computer Science Student from France. I have been learning code for
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="scala" src="https://img.shields.io/badge/Scala-660000?style=for-the-badge&logo=scala&logoColor=red" />
+  <img alt="csharp" src="https://img.shields.io/badge/Csharp-00599C?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 <p>
   <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-2e2e2e?style=for-the-badge&logo=express&logoColor=white" />
